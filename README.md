@@ -8,7 +8,7 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1.import pandas module and import the required data set.
+1.import pandas module and import the required data set.<br/>
 2.Find the null values and count them.
 3.Count number of left values.
 4.From sklearn import LabelEncoder to convert string values to numerical values.
